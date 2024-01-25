@@ -6,8 +6,13 @@ from flask import (Flask, redirect, render_template, request,
 
 app = Flask(__name__)
 
+# keys mady
 #key = "3efe59a334msha059c985bfdfa0fp19b733jsn38325d8631fd"
-key = "c1ae7440ebmsh05213312eea3336p1ac589jsnd5e132631543"
+#key = "c1ae7440ebmsh05213312eea3336p1ac589jsnd5e132631543"
+
+#key yu
+key = "247379b4damshfe39ac9626aab44p15ecfcjsn13ea3c96852c"
+
 url_user = "https://twttrapi.p.rapidapi.com/get-user"
 url_user_followers = "https://twttrapi.p.rapidapi.com/user-followers"
 
