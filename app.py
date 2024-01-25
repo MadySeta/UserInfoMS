@@ -11,7 +11,8 @@ app = Flask(__name__)
 #key = "c1ae7440ebmsh05213312eea3336p1ac589jsnd5e132631543"
 
 #key yu
-key = "247379b4damshfe39ac9626aab44p15ecfcjsn13ea3c96852c"
+#key = "247379b4damshfe39ac9626aab44p15ecfcjsn13ea3c96852c"
+key = "4455acd555msh2ecaae5b6ba2d94p197c80jsnd75df619c096"
 
 url_user = "https://twttrapi.p.rapidapi.com/get-user"
 url_user_followers = "https://twttrapi.p.rapidapi.com/user-followers"
